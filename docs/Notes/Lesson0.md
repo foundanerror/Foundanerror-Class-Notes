@@ -28,7 +28,6 @@ Then we got the mid-level programming languages, which are kind of near to high-
 ### Mid-Level Programming Languages: 
 
 + C++
-+ C#
 + Java
 
 And finally, we got the high-level programming languages that don't require that much specification and lets you forget about tons of stuff that you'll need to do in mid-level ones, and an example of this type of language could be Python, Lua, and even Ruby!"
@@ -37,6 +36,7 @@ And finally, we got the high-level programming languages that don't require that
 
 + Python
 + Lua
++ C#
 + JavaScript
 + SQL
 
