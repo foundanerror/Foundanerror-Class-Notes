@@ -31,11 +31,11 @@ Some programming languages are low-level programming languages, this means that 
 
 + C++
 + C#
++ Java
 
 ### High-Level Programming Languages:
 
 + Python
 + Lua
 + JavaScript
-+ Java
-
++ SQL
