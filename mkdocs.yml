@@ -1,0 +1,35 @@
+site_name: Foundanerror Class Notes
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: green
+      accent: grey
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: green
+      accent: grey
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+
+nav:
+  - Home: index.md
+  - Notes:
+    - Lesson 0 - Introduction To Programming: Notes/Lesson0.md
+    - Lesson 1 - Varibles & Types: Notes/Lesson1.md
+    - Lesson 2 - Arrays & Tables : Notes/Lesson2.md
+    - Lesson 3 - Dictionaries: Notes/Lesson3.md'
+    - Lesson 4 - For Loops, While Loops, Operators: Notes/Lesson4.md
+    - Lesson 5 - Pairs, Ipairs: Notes/Lesson5.md
+    - Lesson 6 - If statements & Functions: Notes/Lesson6.md
+
+markdown_extensions:
+  - admonition
+  - pymdownx.highlight
+  - pymdownx.superfences
