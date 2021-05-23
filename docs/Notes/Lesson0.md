@@ -7,19 +7,15 @@ Computers are considered very dumb machines. We have to give the computer **very
 
 Computers only understand something called machine code. Which is also known as binary. Every instruction fed into the computer is converted into 0's and 1's to quickly carry out the task.
 
-To make the computer carry out a specific task, we have to convert our instructions into machine code for the computer to understand. But it is very difficult to convert English into machine code. This problem is all solved with programming languages.
+To make the computer carry out a specific task, we have to convert our instructions into machine code for the computer to understand. But it is very difficult to convert English into machine code. The machines don't understand what we are trying to tell them to do since the level of abstraction it's different, now they need to understand how to do stuff that we as programmers do since we actually won't be giving the instructions in `0s` and `1s!` For this, we got the programming languages, and to get the machine to understand these instructions we got software called compilers we will get there in a moment!"
 
-## Programming Languages & Interpreters 
+
+## Programming Languages & Interpreters
 
 Programming languages can be seen as a middle man for translating programs we write into machine code. 
 Interpreters and Compilers are used to converting programming language into machine code to carry out the specific function. 
 
-
-
-Some programming languages are low-level programming languages, this means that they are close to machine code. Other programming languages are high and mid-level programming languages, meaning that they are farther away from machine code, also meaning that there are fewer specific things you need to code yourself. 
-
-!!! note
-    Compilers are used to convert high-level programming languages into low-level programming languages. The compiler reads all your code at once and actually executes it after. Interpreters are a type of compiler that compiles the code as it goes.
+A programming language it's a language that can be used to interpret the instructions to a machine. Now, there are low-level programming languages that have a direct impact on how the hardware will be handled, an example could be machine code and assembly! 
 
 ### Low-Level Programming Languages: 
 
@@ -27,11 +23,15 @@ Some programming languages are low-level programming languages, this means that 
 + Machine Code
 + C
 
-### Mid-Level Programming Languagaes: 
+Then we got the mid-level programming languages, which are kind of near to high-level but this one requires further explanation on how to do the stuff slightly more in abstract terms. An example of this language could be C or C++.
+
+### Mid-Level Programming Languages: 
 
 + C++
 + C#
 + Java
+
+And finally, we got the high-level programming languages that don't require that much specification and lets you forget about tons of stuff that you'll need to do in mid-level ones, and an example of this type of language could be Python, Lua, and even Ruby!"
 
 ### High-Level Programming Languages:
 
@@ -39,3 +39,11 @@ Some programming languages are low-level programming languages, this means that 
 + Lua
 + JavaScript
 + SQL
+
+!!! note
+    Compilers are used to convert high-level programming languages into low-level programming languages. The compiler reads all your code at once and executes it after. Interpreters are a type of compiler that compiles the code as it goes.
+
+
+
+
+
