@@ -1,2 +1,1 @@
-Hello, in this class we will be covering the basic information about computer programming.
-kksddfsdfasdfsdfasdf
+ Today we will be discussing the basics of computer programming.
