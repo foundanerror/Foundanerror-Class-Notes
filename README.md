@@ -1,2 +1,3 @@
-# FoundanerrorClassNotes
+# Foundanerror Class Notes
+
  
