@@ -1,5 +1,7 @@
 site_name: Foundanerror Class Notes
 site_url: https://foundanerror.github.io/Foundanerror-Class-Notes
+repo_name: Foundanerror/Foundanerror-Class-Notes
+repo_url: https://github.com/foundanerror/Foundanerror-Class-Notes
 
 theme:
   name: material
