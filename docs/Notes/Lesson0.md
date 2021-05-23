@@ -11,7 +11,7 @@ To make the computer carry out a specific task, we have to convert our instructi
 
 ## Programming Languages & Interpreters 
 
-Programming languages can be seen as a middle man for translating programs we write in programming languages into machine code. 
+Programming languages can be seen as a middle man for translating programs we write into machine code. 
 Interpreters and Compilers are used to converting programming language into machine code to carry out the specific function. 
 
 
